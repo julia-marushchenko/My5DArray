@@ -1,5 +1,4 @@
 package com.array;
-import java.util.Random;
 
 /**
  * <h1>5 Dimentional Array</h1>
