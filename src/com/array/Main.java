@@ -38,7 +38,9 @@ public class Main {
                         for (int index4 = 0; index4 < array[0][0][0][0].length; index4++){
                             System.out.print(array[index][index1][index2][index3][index4] + " ");
                         }
+                        System.out.println();
                     }
+                    System.out.println();
                 }
                 System.out.println();
             }
