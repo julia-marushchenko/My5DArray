@@ -22,7 +22,7 @@ public class Main {
             for (int index1 = 0; index1 < array[0].length; index1++){
                 for (int index2 = 0; index2 < array[0][0].length; index2++){
                     for (int index3 = 0; index3 < array[0][0][0].length; index3++){
-                        for (int index4 = 0; index4 < array[0][0][0].length; index4++){
+                        for (int index4 = 0; index4 < array[0][0][0][0].length; index4++){
                             array[index][index1][index2][index3][index4] = index;
                         }
                     }
@@ -35,7 +35,7 @@ public class Main {
             for (int index1 = 0; index1 < array[0].length; index1++){
                 for (int index2 = 0; index2 < array[0][0].length; index2++){
                     for (int index3 = 0; index3 < array[0][0][0].length; index3++){
-                        for (int index4 = 0; index4 < array[0][0][0].length; index4++){
+                        for (int index4 = 0; index4 < array[0][0][0][0].length; index4++){
                             System.out.print(array[index][index1][index2][index3][index4] + " ");
                         }
                     }
